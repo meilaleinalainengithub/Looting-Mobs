@@ -27,3 +27,5 @@ You can do the one of the following:
 * Submit an issue detailing what occured, how it occured and or if you modified the datapack in any way. 
 * DM me on discord (username: meilaleinalainen).
 * Try to fix it yourself. This datapack is poorly made so I wouldn't recommend this option.
+
+![Alt text](https://github.com/meilaleinalainengithub/Looting-Mobs/blob/main/example.png?raw=true "Example Image")
