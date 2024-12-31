@@ -1,7 +1,7 @@
 ![Alt text](https://github.com/meilaleinalainengithub/Looting-Mobs/blob/main/pack.png?raw=true "Looting Mobs")
 
 # Looting Mobs
-## Slightly OP Minecraft Datapack allowing you to get every possible drop from a mob. Whether it's an armor trim from an Elder Guardian or iron from a Zombie, you'll never miss out on any potential drops
+## Slightly OP Minecraft Datapack allowing you to get every possible drop from a mob.
 
 This project is my fourth go on a Minecraft Datapack, therefore not very good, nor efficient. This datapack forces mobs to drop all their possible drops at the max amount. That means always get 4 blaze rods, or 4 ender pearls, or that armor trim from the elder guardian. Everything drops.
 
